@@ -33,12 +33,12 @@ $(document).ready(function(){
 
 
 function slideEffectAjax1() {
-      $('.top-bidcart-contain').mouseenter(function() { 
-            $(this).find(".top-bidcart-content").stop(true, true).slideDown();
+      $('.top-ocart-contain').mouseenter(function() { 
+            $(this).find(".top-ocart-content").stop(true, true).slideDown();
         });
 
-        $('.top-bidcart-contain').mouseleave(function() {
-            $(this).find(".top-bidcart-content").stop(true, true).slideUp();
+        $('.top-ocart-contain').mouseleave(function() {
+            $(this).find(".top-ocart-content").stop(true, true).slideUp();
         });
 }
 
