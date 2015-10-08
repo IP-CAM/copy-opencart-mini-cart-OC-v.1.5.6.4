@@ -2,8 +2,9 @@
 How to copy OpenCart Default Mini Cart Drop Down.
 
 Below are the thek to copy Mini Cart Drop Down in OpenCart.
+I have attached modified and created file along with readme.
 
-*Note : Version of OpenCart 1.5.6.4
+*Note : Version of OpenCart 1.5.6.4 used
 
 1:- Go to Root Directory of Open Cart (My Root Directory is os)
 
