@@ -1,0 +1,13 @@
+nav #ocart .content {
+	clear: both;
+	display: none;
+	position:absolute;
+	
+	/*top: 40px;padding: 8px;
+	min-height: 150px;*/
+	background: #FFF;
+}
+
+nav #ocart.active .content {
+	display: block;
+}
