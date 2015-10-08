@@ -13,7 +13,7 @@
 <br /> 
 <div class="top-ocart-contain">
     <div class="mini-cart"> 
-    <?php echo $bidcart; ?>
+    <?php echo $ocart; ?>
     </div>
     <div id="ajaxconfig_info" style="display:none"> <a href="#/"></a>
     <input value="" type="hidden">
