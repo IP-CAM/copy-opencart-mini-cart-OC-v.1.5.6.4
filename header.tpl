@@ -631,7 +631,7 @@ echo html_entity_decode($custom_block_inside_menu['custom_block_inside_menu_modu
     </div>
 </div>   
 <br /> 
-<div class="top-bidcart-contain" style="margin-top: -100px;">
+<div class="top-ocart-contain">
     <div class="mini-cart"> 
     <?php echo $bidcart; ?>
     </div>
