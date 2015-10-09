@@ -1,4 +1,4 @@
-# copy_cart_drop_down
+# Create Another Opencart Mini-Cart Drop Down
 How to copy OpenCart Default Mini Cart Drop Down.
 
 Below are the thek to copy Mini Cart Drop Down in OpenCart.
